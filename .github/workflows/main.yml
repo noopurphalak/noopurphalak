@@ -1,8 +1,10 @@
 name: Update README with my latest coding stats
 
 on:
+  push:
+    branches: [ master ]
   schedule:
-    - cron: '* * * * *'
+    - cron: '30 5 * * *'
 
 jobs:
   update-Readme:
