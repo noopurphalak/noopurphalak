@@ -3,7 +3,7 @@ name: Wakatime Code Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-charts:
