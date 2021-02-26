@@ -1,8 +1,6 @@
 name: Wakatime Code Stats
 
 on:
-  push:
-    branches: [ master ]
   schedule:
     - cron: '* * * * *'
 
