@@ -3,14 +3,14 @@ name: Wakatime Code Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '30 5 * * *'
 
 jobs:
-  update-charts:
-    name: Update wakatime stats charts
+  update-Readme:
+    name: Automatically update my README  
     runs-on: ubuntu-latest
     steps:
-      - uses: divykj/wakatime-charts@master
+      - uses: tariksahni/coding-stats-wakatime@v1.0.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BRANCH_NAME: main
