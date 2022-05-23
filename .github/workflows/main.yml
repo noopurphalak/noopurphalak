@@ -1,4 +1,4 @@
-name: WakaTime status update
+name: wakatime-status-update
 
 on:
   workflow_dispatch:
