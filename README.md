@@ -1,6 +1,6 @@
 [![wakatime-status-update](https://github.com/noopurphalak/noopurphalak/workflows/wakatime-status-update/badge.svg)](https://github.com/noopurphalak/noopurphalak/actions/workflows/main.yml)
 
-# My Weekly Coding Stats
+# My Monthly Coding Stats
 
 <!--START_SECTION:waka-->
 
