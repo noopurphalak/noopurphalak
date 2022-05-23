@@ -18,5 +18,3 @@ Text         53 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<img src="https://github.com/noopurphalak/noopurphalak/blob/main/images/stat.svg" alt="Weekly Coding Activity"/>
