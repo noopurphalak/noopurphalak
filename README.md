@@ -6,16 +6,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 November 2022 - To: 05 December 2022
+From: 06 November 2022 - To: 06 December 2022
 
-Total Time: 30 hrs 21 mins
+Total Time: 35 hrs 23 mins
 
-Python       14 hrs 34 mins  ████████████░░░░░░░░░░░░░   47.72 %
-TypeScript   6 hrs 22 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
-Vue.js       6 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   19.73 %
-YAML         1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Text         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Bash         35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Python       15 hrs          ██████████▒░░░░░░░░░░░░░░   41.99 %
+TypeScript   6 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
+Vue.js       6 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
+YAML         3 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Docker       1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Text         1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
