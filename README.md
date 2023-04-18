@@ -6,16 +6,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 March 2023 - To: 17 April 2023
+From: 19 March 2023 - To: 18 April 2023
 
-Total Time: 87 hrs 32 mins
+Total Time: 92 hrs 57 mins
 
-Vue.js       44 hrs 50 mins  ████████████▓░░░░░░░░░░░░   51.11 %
-Python       18 hrs 14 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
-TypeScript   11 hrs 33 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-YAML         4 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Text         2 hrs 56 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-Docker       1 hr 37 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Vue.js       46 hrs 46 mins  ████████████▓░░░░░░░░░░░░   50.21 %
+Python       20 hrs 31 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
+TypeScript   12 hrs 14 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+YAML         4 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Text         2 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Docker       1 hr 37 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
