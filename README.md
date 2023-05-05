@@ -15,7 +15,6 @@ Python       15 hrs 39 mins  ████▒░░░░░░░░░░░░
 TypeScript   13 hrs 43 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
 Markdown     6 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
 JSON         4 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-YAML         3 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
