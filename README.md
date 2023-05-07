@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 06 May 2023
+From: 07 April 2023 - To: 07 May 2023
 
-Total Time: 87 hrs 13 mins
+Total Time: 90 hrs 34 mins
 
-Vue.js       35 hrs 30 mins  ██████████░░░░░░░░░░░░░░░   39.65 %
-Python       15 hrs 48 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-TypeScript   13 hrs 28 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-Markdown     6 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-JSON         4 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Vue.js       37 hrs 16 mins  ██████████░░░░░░░░░░░░░░░   40.09 %
+Python       15 hrs 57 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
+TypeScript   14 hrs 34 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+Markdown     6 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+JSON         4 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:waka-->
