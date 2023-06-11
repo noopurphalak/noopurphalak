@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2023 - To: 10 June 2023
+From: 12 May 2023 - To: 11 June 2023
 
-Total Time: 61 hrs 7 mins
+Total Time: 55 hrs 51 mins
 
-Python       24 hrs 31 mins  ██████████░░░░░░░░░░░░░░░   39.48 %
-Vue.js       14 hrs 45 mins  ██████░░░░░░░░░░░░░░░░░░░   23.76 %
-TypeScript   7 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-YAML         3 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Bash         2 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Python       24 hrs 13 mins  ██████████▓░░░░░░░░░░░░░░   42.75 %
+Vue.js       14 hrs 36 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
+YAML         3 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+TypeScript   3 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Bash         2 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
