@@ -1,4 +1,4 @@
-name: wakatime-status-update
+name: Wakatime Status
 
 on:
   workflow_dispatch:
