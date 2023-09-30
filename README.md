@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2023 - To: 29 September 2023
+From: 31 August 2023 - To: 30 September 2023
 
-Total Time: 44 hrs 49 mins
+Total Time: 41 hrs 54 mins
 
-Python                     28 hrs 10 mins  ███████████████▓░░░░░░░░░   62.84 %
-Vue.js                     9 hrs 48 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
-Terraform                  2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-JSON                       1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-YAML                       43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Python         26 hrs 32 mins  ███████████████▓░░░░░░░░░   63.32 %
+Vue.js         9 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   23.40 %
+Terraform      2 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+JSON           1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+TypeScript     38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
