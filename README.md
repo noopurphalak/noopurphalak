@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2023 - To: 17 October 2023
+From: 18 September 2023 - To: 18 October 2023
 
-Total Time: 26 hrs 39 mins
+Total Time: 20 hrs 51 mins
 
-Python       11 hrs 8 mins   ██████████▒░░░░░░░░░░░░░░   41.49 %
-Vue.js       8 hrs 52 mins   ████████▒░░░░░░░░░░░░░░░░   33.01 %
-JavaScript   5 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   19.97 %
-TypeScript   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-SQL          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Vue.js       8 hrs 52 mins   ██████████▓░░░░░░░░░░░░░░   42.08 %
+JavaScript   5 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
+Python       5 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
+TypeScript   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+SQL          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
