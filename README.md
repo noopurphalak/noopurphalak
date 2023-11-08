@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2023 - To: 07 November 2023
+From: 09 October 2023 - To: 08 November 2023
 
-Total Time: 52 hrs 10 mins
+Total Time: 52 hrs 20 mins
 
-Python           19 hrs 47 mins  █████████░░░░░░░░░░░░░░░░   36.55 %
-JavaScript       12 hrs 52 mins  ██████░░░░░░░░░░░░░░░░░░░   23.77 %
-YAML             11 hrs 38 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
-Bash             3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Docker           2 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Python           17 hrs 51 mins  ████████▒░░░░░░░░░░░░░░░░   32.83 %
+JavaScript       13 hrs 44 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.25 %
+YAML             12 hrs 31 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
+Bash             3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+Docker           2 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:waka-->
