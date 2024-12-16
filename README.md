@@ -6,12 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 November 2024 - To: 15 December 2024
+From: 16 November 2024 - To: 16 December 2024
 
-Total Time: 60 hrs 26 mins
+Total Time: 60 hrs 28 mins
 
-Python       27 hrs 3 mins   ███████████░░░░░░░░░░░░░░   43.92 %
-Vue.js       25 hrs 33 mins  ██████████▒░░░░░░░░░░░░░░   41.46 %
+Python       27 hrs 14 mins  ███████████░░░░░░░░░░░░░░   44.18 %
+Vue.js       25 hrs 25 mins  ██████████▒░░░░░░░░░░░░░░   41.21 %
 JavaScript   2 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 TOML         1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 Other        1 hr 11 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
