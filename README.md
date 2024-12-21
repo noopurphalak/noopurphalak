@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2024 - To: 20 December 2024
+From: 21 November 2024 - To: 21 December 2024
 
-Total Time: 41 hrs 53 mins
+Total Time: 40 hrs 58 mins
 
-Python       24 hrs 16 mins  ██████████████░░░░░░░░░░░   56.29 %
-Vue.js       9 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-JSON         2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-TOML         1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Other        1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Python       23 hrs 59 mins  ██████████████▒░░░░░░░░░░   57.20 %
+Vue.js       9 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.80 %
+JSON         2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+TOML         1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Other        59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
