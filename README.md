@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 17 January 2025 - To: 16 February 2025
+From: 18 January 2025 - To: 17 February 2025
 
-Total Time: 83 hrs 39 mins
+Total Time: 85 hrs 45 mins
 
-Vue.js        37 hrs 45 mins  ███████████▒░░░░░░░░░░░░░   44.94 %
-Python        28 hrs 38 mins  ████████▓░░░░░░░░░░░░░░░░   34.09 %
-TypeScript    9 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-JavaScript    3 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Bash          1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Vue.js        38 hrs 53 mins  ███████████▒░░░░░░░░░░░░░   45.16 %
+Python        29 hrs 30 mins  ████████▓░░░░░░░░░░░░░░░░   34.26 %
+TypeScript    9 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+JavaScript    3 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Bash          1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
