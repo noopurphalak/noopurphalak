@@ -25,4 +25,4 @@ JavaScript   1 hr 52 mins    ▓░░░░░░░░░░░░░░░░
 </div>
 
 # Github Trophy Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=noopurphalak)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=noopurphalak&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
