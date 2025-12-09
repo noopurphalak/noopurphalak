@@ -24,5 +24,5 @@ JSON         4 hrs 28 mins   █░░░░░░░░░░░░░░░░
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noopurphalak&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=0d1117" />
 </div>
 
-# Github Trophy Stats
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=noopurphalak&margin-w=15&margin-h=8&theme=monokai&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)-->
+<!--# Github Trophy Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=noopurphalak&margin-w=15&margin-h=8&theme=monokai&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)-->
