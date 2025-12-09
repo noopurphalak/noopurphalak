@@ -25,4 +25,4 @@ JSON         4 hrs 28 mins   █░░░░░░░░░░░░░░░░
 </div>
 
 # Github Trophy Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=noopurphalak&margin-w=15&margin-h=8&theme=monokai&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=noopurphalak&margin-w=15&margin-h=8&theme=monokai&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)-->
