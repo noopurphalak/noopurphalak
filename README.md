@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 17 November 2025 - To: 17 December 2025
+From: 18 November 2025 - To: 18 December 2025
 
-Total Time: 76 hrs 31 mins
+Total Time: 69 hrs 50 mins
 
-Python       49 hrs 49 mins  ██████████░░░░░░░░░░░░░░░   40.15 %
-Other        47 hrs 35 mins  █████████▓░░░░░░░░░░░░░░░   38.34 %
-Bash         9 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-JavaScript   5 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Vue.js       4 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Other        52 hrs 22 mins  ██████████▓░░░░░░░░░░░░░░   42.86 %
+Python       48 hrs 5 mins   ██████████░░░░░░░░░░░░░░░   39.35 %
+Bash         9 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+JavaScript   5 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Markdown     3 hrs 38 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
