@@ -5,12 +5,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 27 November 2025 - To: 27 December 2025
+From: 28 November 2025 - To: 28 December 2025
 
 Total Time: 50 hrs 33 mins
 
-Other        40 hrs 16 mins  ███████████░░░░░░░░░░░░░░   44.34 %
-Python       30 hrs 29 mins  ████████▒░░░░░░░░░░░░░░░░   33.58 %
+Other        40 hrs 17 mins  ███████████░░░░░░░░░░░░░░   44.35 %
+Python       30 hrs 29 mins  ████████▒░░░░░░░░░░░░░░░░   33.57 %
 Bash         8 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
 JavaScript   5 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 Markdown     2 hrs 52 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
