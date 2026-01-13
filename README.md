@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 December 2025 - To: 11 January 2026
+From: 13 December 2025 - To: 12 January 2026
 
-Total Time: 37 hrs 34 mins
+Total Time: 41 hrs 41 mins
 
-Other                      63 hrs 25 mins  ███████████████▓░░░░░░░░░   62.79 %
-Python                     20 hrs 57 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
-JavaScript                 5 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Bash                       3 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-JSON                       2 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Other                      64 hrs 15 mins  ███████████████░░░░░░░░░░   60.65 %
+Python                     22 hrs          █████▒░░░░░░░░░░░░░░░░░░░   20.77 %
+JavaScript                 5 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Bash                       3 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+JSON                       2 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
