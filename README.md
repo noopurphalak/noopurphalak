@@ -5,13 +5,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 31 December 2025 - To: 30 January 2026
+From: 01 January 2026 - To: 31 January 2026
 
-Total Time: 60 hrs 46 mins
+Total Time: 60 hrs 42 mins
 
-Other                66 hrs 10 mins  █████████████░░░░░░░░░░░░   52.13 %
-Python               42 hrs 42 mins  ████████▒░░░░░░░░░░░░░░░░   33.64 %
-Vue.js               3 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Other                65 hrs 56 mins  █████████████░░░░░░░░░░░░   52.07 %
+Python               42 hrs 38 mins  ████████▒░░░░░░░░░░░░░░░░   33.66 %
+Vue.js               3 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 Bash                 2 hrs 48 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 YAML                 2 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
