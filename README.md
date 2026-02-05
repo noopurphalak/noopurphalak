@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 January 2026 - To: 03 February 2026
+From: 05 January 2026 - To: 04 February 2026
 
-Total Time: 57 hrs 41 mins
+Total Time: 59 hrs 5 mins
 
-Other                67 hrs 50 mins  █████████████▓░░░░░░░░░░░   54.05 %
-Python               39 hrs 13 mins  ███████▓░░░░░░░░░░░░░░░░░   31.24 %
-Vue.js               3 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-YAML                 2 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Bash                 2 hrs 31 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Other                64 hrs 42 mins  █████████████░░░░░░░░░░░░   52.27 %
+Python               38 hrs 49 mins  ████████░░░░░░░░░░░░░░░░░   31.36 %
+JavaScript           5 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Vue.js               3 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+YAML                 2 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
