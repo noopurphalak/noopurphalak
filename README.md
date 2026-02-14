@@ -1,7 +1,7 @@
 # My Portfolio
-https://noopurphalak.com [![Netlify Status](https://api.netlify.com/api/v1/badges/0652b6ba-b047-4a6d-bfe6-cd8958cbb19e/deploy-status)](https://app.netlify.com/projects/noopurphalak/deploys)
+https://noopurphalak.com 
 
-[![wakatime](https://wakatime.com/badge/user/80ace140-ef40-4fdd-b8ed-f3be3d2e1aea.svg)](https://wakatime.com/@80ace140-ef40-4fdd-b8ed-f3be3d2e1aea)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0652b6ba-b047-4a6d-bfe6-cd8958cbb19e/deploy-status)](https://app.netlify.com/projects/noopurphalak/deploys) [![wakatime](https://wakatime.com/badge/user/80ace140-ef40-4fdd-b8ed-f3be3d2e1aea.svg)](https://wakatime.com/@80ace140-ef40-4fdd-b8ed-f3be3d2e1aea)
 
 # My Monthly Coding Stats
 
