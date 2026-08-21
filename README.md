@@ -8,15 +8,15 @@ https://noopurphalak.com
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 July 2026 - To: 19 August 2026
+From: 21 July 2026 - To: 20 August 2026
 
-Total Time: 53 hrs 51 mins
+Total Time: 51 hrs 36 mins
 
-Other        50 hrs 38 mins        ████████████░░░░░░░░░░░░░   48.46 %
-Python       27 hrs 5 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
-Markdown     20 hrs 30 mins        █████░░░░░░░░░░░░░░░░░░░░   19.63 %
-Text         1 hr 33 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-Bash         1 hr 14 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Other        51 hrs 9 mins         ████████████▒░░░░░░░░░░░░   49.78 %
+Python       27 hrs 26 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.70 %
+Markdown     18 hrs 49 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
+Text         1 hr 33 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Bash         1 hr 9 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
